@@ -1,7 +1,7 @@
-// Main entry point for Storium
+// Main entry point for storageium
 #include <stdio.h>
 
 int main() {
-    printf("Welcome to Storium, powered by OmniStition!\n");
+    printf("Welcome to storageium, powered by OmniStition!\n");
     return 0;
 }
