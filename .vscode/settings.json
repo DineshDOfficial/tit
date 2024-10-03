@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "kvstore.h": "c",
+        "stdlib.h": "c",
+        "microhttpd.h": "c"
+    }
+}
