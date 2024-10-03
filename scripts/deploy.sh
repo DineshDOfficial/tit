@@ -1,2 +1,2 @@
 #!/bin/bash
-# Deployment script for storageium
+# Deployment script for storagium

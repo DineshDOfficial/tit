@@ -1,7 +1,7 @@
 CC=gcc
 CFLAGS=-I.
 
-all: storageium
+all: storagium
 
-storageium: src/main.c src/core/storage.c
-	$(CC) -o storageium src/main.c src/core/storage.c
+storagium: src/main.c src/core/storage.c
+	$(CC) -o storagium src/main.c src/core/storage.c

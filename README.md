@@ -1,19 +1,49 @@
-# storageium
 
-A modular, reconfigurable data platform.
+# Storagium
 
-## Features
+[![Storagium Logo](/assets//storagium.logo.png)](https://omnistition.com)
 
-- Multi-Paradigm Data Storage
-- Dynamic Storage Model Reconfiguration
-...
+---
 
-gcc -I/mingw64/include -L/mingw64/lib -o storageium src/main.c src/core/kvstore.c src/api/rest_api.c src/ui/web_interface.c -lmicrohttpd
+## About
 
-gcc -IC:/msys64/mingw64/include -LC:/msys64/mingw64/lib -o storageium src/main.c src/core/kvstore.c src/api/rest_api.c src/ui/web_interface.c -lmicrohttpd
+**Storagium** is an advanced, modular data storage platform that allows seamless multi-paradigm data storage and dynamic reconfiguration based on your data needs. Built with performance, scalability, and flexibility at its core, Storagium is designed to handle complex data sets across various paradigms, ensuring efficient storage and retrieval.
 
-gcc -IC:/msys64/mingw64/include -I./src/core -LC:/msys64/mingw64/lib -o storageium src/main.c src/core/kvstore.c src/api/rest_api.c src/ui/web_interface.c -lmicrohttpd
+Storagium provides a unified interface for interacting with different types of data, making it the ideal solution for companies dealing with a wide range of data formats and workloads.
 
-gcc -IC:/msys64/mingw64/include -I./src/core -LC:/msys64/mingw64/lib -o storageium src/main.c src/core/kvstore.c src/api/rest_api.c src/ui/web_interface.c -lmicrohttpd
+---
 
-gcc -I/mingw64/include -I./src/core -L/mingw64/lib -o storageium src/main.c src/core/kvstore.c src/api/rest_api.c src/ui/web_interface.c -lmicrohttpd
+## 🚀 Features
+
+- **🔀 Multi-Paradigm Data Storage**: Store and manage data across different paradigms (relational, graph, time series, object, etc.) in one platform.
+- **⚙️ Dynamic Storage Model Reconfiguration**: Switch between different storage models on the fly without impacting performance.
+- **⚡ Optimized for Performance**: Built with a C-based core, ensuring low-latency data processing.
+- **📈 Modular & Scalable Architecture**: Scale your storage as your data grows with ease, while maintaining flexibility through modular components.
+- **🖥️ REST API and UI Integration**: Easy-to-use REST API and UI, with future support for Node.js for fast and intuitive data interaction.
+
+---
+
+## 🛠️ Prerequisites
+
+- C Compiler (GCC, MinGW)
+- Node.js (for UI/API integration)
+- Make sure to have **`libstorage.so`** or **`storage.dll`** compiled from the core C library.
+
+---
+
+## 👥 Creator
+
+- **Dinesh** - Founder & Lead Developer of Storagium.  
+  GitHub: [dineshxofficial](https://github.com/dineshxofficial)  
+  Email: [dinesh@omnistition.com](mailto:dinesh@omnistition.com)
+
+---
+
+## 🏢 Company
+
+Storagium is developed and maintained by **[OmniStition](https://omnistition.com)**.
+
+[![OmniStition Logo](/assets/omnistition.logo.png)](https://omnistition.com)
+
+---
+
