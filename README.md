@@ -1,7 +1,7 @@
 
 # Storagium
 
-[![Storagium Logo](/assets//storagium.logo.png)](https://omnistition.com)
+[![Storagium Logo](/assets//storagium.logo.png)]
 
 ---
 
@@ -28,22 +28,4 @@ Storagium provides a unified interface for interacting with different types of d
 - C Compiler (GCC, MinGW)
 - Node.js (for UI/API integration)
 - Make sure to have **`libstorage.so`** or **`storage.dll`** compiled from the core C library.
-
 ---
-
-## 👥 Creator
-
-- **Dinesh** - Founder & Lead Developer of Storagium.  
-  GitHub: [dineshxofficial](https://github.com/dineshxofficial)  
-  Email: [dinesh@omnistition.com](mailto:dinesh@omnistition.com)
-
----
-
-## 🏢 Company
-
-Storagium is developed and maintained by **[OmniStition](https://omnistition.com)**.
-
-[![OmniStition Logo](/assets/omnistition.logo.png)](https://omnistition.com)
-
----
-
