@@ -1,7 +1,7 @@
 CC=gcc
 CFLAGS=-I.
 
-all: storagium
+all: tit
 
-storagium: src/main.c src/core/storage.c
-	$(CC) -o storagium src/main.c src/core/storage.c
+tit: src/main.c
+	$(CC) -o tit src/main.c

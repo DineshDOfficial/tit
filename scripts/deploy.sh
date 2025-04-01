@@ -1,2 +1,2 @@
 #!/bin/bash
-# Deployment script for storagium
+# Deployment script for tit
