@@ -1,29 +1,32 @@
+# **TIT: Temporal Information Tracker**
 
-# Storagium
-
-![Storagium Logo](/assets//storagium.logo.png)
-
-## About
-
-**Storagium** is an advanced, modular data storage platform that allows seamless multi-paradigm data storage and dynamic reconfiguration based on your data needs. Built with performance, scalability, and flexibility at its core, Storagium is designed to handle complex data sets across various paradigms, ensuring efficient storage and retrieval.
-
-Storagium provides a unified interface for interacting with different types of data, making it the ideal solution for companies dealing with a wide range of data formats and workloads.
+**TIT** is a **next-generation database** that integrates **version control** for your data. With **TIT**, you can **track, query, and manage your database** across different versions, allowing you to branch, commit, and merge data states with ease—just like working with source code in Git. Maintain a complete audit trail, and run powerful version-based queries.
 
 ---
 
-## 🚀 Features
+## **Key Features**
 
-- **🔀 Multi-Paradigm Data Storage**: Store and manage data across different paradigms (relational, graph, time series, object, etc.) in one platform.
-- **⚙️ Dynamic Storage Model Reconfiguration**: Switch between different storage models on the fly without impacting performance.
-- **⚡ Optimized for Performance**: Built with a C-based core, ensuring low-latency data processing.
-- **📈 Modular & Scalable Architecture**: Scale your storage as your data grows with ease, while maintaining flexibility through modular components.
-- **🖥️ REST API and UI Integration**: Easy-to-use REST API and UI, with future support for Node.js for fast and intuitive data interaction.
+- **Version Control for Your Data**: Branch, commit, and merge changes to your database. Treat your database just like a Git repository—version-controlled, easily revertible, and collaborative.
+- **Query Historical Data**: Retrieve and analyze data as it existed at any point in its history, enabling insightful analytics and troubleshooting.
+- **Real-Time State Snapshots**: Capture continuous snapshots of your data without sacrificing performance, ensuring you always have access to historical states.
+- **Comprehensive Audit Trails**: Automatically track every change in your database, providing transparency and a full history of modifications for compliance and debugging.
+- **Intuitive Data Management**: Easily navigate through different data versions with user-friendly commands and APIs, making it as simple as Git.
 
 ---
 
-## 🛠️ Prerequisites
+## **Why TIT?**
 
-- C Compiler (GCC, MinGW)
-- Node.js (for UI/API integration)
-- Make sure to have **`libstorage.so`** or **`storage.dll`** compiled from the core C library.
+- **Data Versioning Simplified**: TIT brings the same version control model you love from Git to your database, making it easier to manage complex datasets and experiment with multiple data states.
+- **Efficient Branching and Merging**: Enable powerful workflows by branching from any point in your data's history and merging changes with full control over conflicts.
+- **Powerful Debugging and Analytics**: Query data at specific points in time, effortlessly debugging past states and gaining deeper insights into how your data evolves.
+- **Open-Source and Community-Driven**: TIT is open-source, meaning it’s free to use, contribute to, and extend as per your needs. Join the community and help drive its evolution!
+
 ---
+
+## **Getting Started**
+
+To get started with **TIT**, clone the repository and follow the [installation guide](#installation-guide) to integrate it into your project.
+
+```bash
+git clone https://github.com/DineshDOfficial/tit.git
+cd tit
