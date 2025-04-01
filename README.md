@@ -1,7 +1,7 @@
 
 # Storagium
 
-[![Storagium Logo](/assets//storagium.logo.png)]
+![Storagium Logo](/assets//storagium.logo.png)
 
 ## About
 
