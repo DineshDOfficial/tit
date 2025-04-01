@@ -1,6 +1,6 @@
 # **TIT: Temporal Information Tracker**
 
-**TIT** is a **next-generation database** that integrates **version control** for your data. With **TIT**, you can **track, query, and manage your database** across different versions, allowing you to branch, commit, and merge data states with ease—just like working with source code in Git. Maintain a complete audit trail, and run powerful version-based queries.
+**TIT** is a **database** that integrates **version control** for your data. With **TIT**, you can **track, query, and manage your database** across different versions, allowing you to branch, commit, and merge data states with ease—just like working with source code in Git. Maintain a complete audit trail, and run powerful version-based queries.
 
 ---
 
