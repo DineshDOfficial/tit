@@ -3,8 +3,6 @@
 
 [![Storagium Logo](/assets//storagium.logo.png)]
 
----
-
 ## About
 
 **Storagium** is an advanced, modular data storage platform that allows seamless multi-paradigm data storage and dynamic reconfiguration based on your data needs. Built with performance, scalability, and flexibility at its core, Storagium is designed to handle complex data sets across various paradigms, ensuring efficient storage and retrieval.
